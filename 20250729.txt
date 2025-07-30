@@ -400,7 +400,7 @@ V6香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
 
 
 
-夜巡 上映日期: 2025-07-03(印度),https://137.175.25.131:11305/data4/jvods/hls/dhz/73/72030/25072612/1_296662_2187055/1920/index.m3u8?appId=hkan&sign=08c688b6c7eb6fda9d2332c22edac266&timestamp=1753840221&ref=2
+夜巡 上映日期:2025-07-03(印度),https://137.175.25.131:11305/data4/jvods/hls/dhz/73/72030/25072612/1_296662_2187055/1920/index.m3u8?appId=hkan&sign=08c688b6c7eb6fda9d2332c22edac266&timestamp=1753840221&ref=2
 长发鬼 上映日期: 2023-10-26(柬埔寨),https://137.175.4.238:11305/data2/jvods/hls/dhz/73/72481/25072918/1_296964_2202208/1920/index.m3u8?appId=hkan&sign=8a96e67adf75fa025110522be3ea4851&timestamp=1753839819&ref=2
 惊变28年上映日期: 2025-06-18(中国台湾) ,https://vip.ffzy-plays.com/20250729/43660_b6f94d0f/3000k/hls/mixed.m3u8
 古宅谜案 上映日期: 2024-11-15(中国大陆悬疑),https://vip.ffzy-video.com/20250729/23290_6956b2e3/index.m3u8
