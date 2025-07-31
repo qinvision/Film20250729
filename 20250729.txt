@@ -354,7 +354,7 @@ V6香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
 ☠731大溃逃DVD国语,https://vvip.high26-playback.com/20250420/4996_e586a4f5/index.m3u8
 ☠黑太阳731之死亡列车HD中字版,https://yzzy.play-cdn7.com/20220701/2071_5a8c214f/index.m3u8
 ☠黑太阳731续集之杀人工厂HD中字版,https://yzzy.play-cdn7.com/20220701/2070_7de21992/index.m3u8
-
+☠南京照相馆[盗拍版],https://137.175.52.178:11305/data6/jvods/hls/dhz/69/68160/25072914/1_293625_2087860/1920/index.m3u8?appId=hkan&sign=b683e9033e33e0b489d6bfe096caecf3×tamp=1753923945&ref=2
 
 
 锅盖头4.Jarhead.Law.of.Return.2019,https://vip.ffzy-online2.com/20230102/5411_a5040aaa/2000k/hls/mixed.m3u8
